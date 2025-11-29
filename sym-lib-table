@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 0)
-  (lib (name "isa_cvx-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/isa_cvx-eagle-import.kicad_sym")(options "")(descr ""))
-)
