@@ -1,0 +1,214 @@
+(footprint "E2,5-5_334"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "ELECTROLYTIC CAPACITOR\n\ngrid 2.54 mm, diameter 5 mm")
+	(property "Reference" "REF**"
+		(at 2.413 -1.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9157bf61-38ef-4539-b6cd-f52d39e80465")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "E2,5-5_334"
+		(at 2.413 2.413 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "328b207e-6d0b-4dd4-badd-701cb214a603")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.127)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1e1c519-c1ac-48c3-a5cd-a0cf25332b82")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34cd3ce7-0cdc-42d4-9dea-ec844eb0f75d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -1.651 -1.27)
+		(end -1.397 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b98aa73a-5a0d-4e41-ac97-fd1273e68ee2")
+	)
+	(fp_line
+		(start -1.397 -1.27)
+		(end -1.397 -1.524)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c17e6c8e-d59b-4f47-9216-50abff29b79b")
+	)
+	(fp_line
+		(start -1.397 -1.27)
+		(end -1.143 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "69ee40fa-e112-40e7-8355-a7cd9cfa3545")
+	)
+	(fp_line
+		(start -1.397 -1.016)
+		(end -1.397 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2bf45bd3-225c-44dc-b967-2aa4872b40de")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.54 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "23a7bb8e-1def-421e-8b49-d35fa3a6c1e9")
+	)
+	(fp_line
+		(start -1.651 0)
+		(end -0.762 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8793755e-002d-416d-beb6-473e3ce6ba7c")
+	)
+	(fp_line
+		(start -0.762 -1.27)
+		(end -0.762 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8f870d21-f5cc-4b7f-8233-5ad4e530ff02")
+	)
+	(fp_line
+		(start -0.762 0)
+		(end -0.762 1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "90e36d82-472b-4518-93cc-e8a31bdba919")
+	)
+	(fp_line
+		(start -0.762 1.27)
+		(end -0.254 1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7064204a-2427-490a-85de-14ee5bdb4cd3")
+	)
+	(fp_line
+		(start -0.254 -1.27)
+		(end -0.762 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9d61e16c-b6bb-4f9a-8145-63711476c2e5")
+	)
+	(fp_line
+		(start -0.254 1.27)
+		(end -0.254 -1.27)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "27a99aaf-1efa-456c-bdaf-dc72c60bd266")
+	)
+	(fp_line
+		(start 0.635 0)
+		(end 1.651 0)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ebc1f382-6943-427e-bba6-ad8ce3712d01")
+	)
+	(fp_poly
+		(pts
+			(xy 0.254 1.27) (xy 0.762 1.27) (xy 0.762 -1.27) (xy 0.254 -1.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "2d82e381-3731-4a44-ac91-a417d135c6bf")
+	)
+	(pad "+" thru_hole circle
+		(at -1.27 0)
+		(size 1.6002 1.6002)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "33e7c60b-9447-4707-b4cb-0e8baaf19c03")
+	)
+	(pad "-" thru_hole roundrect
+		(at 1.27 0)
+		(size 1.6002 1.6002)
+		(drill 0.8128)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(chamfer_ratio 0.2928932188)
+		(chamfer top_left top_right bottom_left bottom_right)
+		(solder_mask_margin 0.1016)
+		(thermal_bridge_angle 0)
+		(uuid "f978899e-aab1-4253-99b6-ffccd26b38a4")
+	)
+	(embedded_fonts no)
+)

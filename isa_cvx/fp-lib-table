@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "isa_cvx")(type "KiCad")(uri "$(KIPRJMOD)/isa_cvx.pretty")(options "")(descr ""))
+)
